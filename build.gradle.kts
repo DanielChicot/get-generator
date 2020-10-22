@@ -14,6 +14,7 @@ repositories {
 
 dependencies {
     implementation("com.beust", "klaxon", "4.0.2")
+    implementation("commons-codec:commons-codec:1.14")
     implementation(kotlin("stdlib-jdk8"))
 }
 
